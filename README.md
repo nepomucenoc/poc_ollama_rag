@@ -25,3 +25,6 @@ pip install -r requirement.txt
 
 # Virtual Environment Variables
 Create your env variable based in the .env_template file
+
+Example:
+![image](https://github.com/user-attachments/assets/ace4cc0d-4fd2-4634-b522-4c78af2af07c)
